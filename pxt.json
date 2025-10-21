@@ -4,8 +4,7 @@
     "dependencies": {
         "core": "*",
         "radio": "*",
-        "microphone": "*",
-        "RingbitCar": "github:tinkertanker/pxt-ringbitcar#v3.1.5"
+        "microphone": "*"
     },
     "files": [
         "main.blocks",
